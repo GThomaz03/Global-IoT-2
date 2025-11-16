@@ -20,7 +20,7 @@ def analyze_resume_text(resume_text):
     {{
       "technical_skills": ["lista de competências técnicas"],
       "soft_skills": ["lista de competências comportamentais"],
-      "experience_years": "número aproximado de anos de experiência total",
+      "experience_years": "número aproximado de anos de experiência total (ex: 5)",
       "education": ["lista de formações acadêmicas"],
       "summary": "Um resumo profissional de 2 a 3 frases sobre o candidato."
     }}
