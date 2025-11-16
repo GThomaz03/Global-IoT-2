@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+instance/
+.env
+.vscode/
+.DS_Store
+venv/
+env/
+.idea/
+*.log
+*.egg-info/
+pip-wheel-metadata/
+build/
+dist/
